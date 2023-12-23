@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "ruta_imagen": "https://miportal.entel.cl/static/112820231414284/images/C_Xiaomi_Redmi_10_5G_1_276x549.jpg",
+      "nombre": "Xiaomi Redmi 10 5G 128GB",
+      "numero": "P001",
+      "stock": 10,
+      "precio": 90990
+    },
+    {
+      "id": 2,
+      "ruta_imagen": "https://miportal.entel.cl/static/112820231414284/images/iphone13-mini-azul-medianoche_01_276x549.jpg",
+      "nombre": "Apple ¡Phone 14 128GB",
+      "numero": "P002",
+      "stock": 10,
+      "precio": 814990
+    },
+    {
+      "id": 3,
+      "ruta_imagen": "https://miportal.entel.cl/static/112820231414284/images/moto-e13-verde-01_276x549.jpg",
+      "nombre": "Motorola Moto E13 64GB",
+      "numero": "P003",
+      "stock": 10,
+      "precio": 60000
+    },
+    {
+      "id": 4,
+      "ruta_imagen": "https://miportal.entel.cl/static/112820231414284/images/apple-watch-se-aluminium-starlight-40mm-01_276x549.jpg",
+      "nombre": "Apple Watch SE 40mm Aluminio GPS Blanco",
+      "numero": "P004",
+      "stock": 10,
+      "precio": 279990
+    }
+  ]
